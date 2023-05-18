@@ -33,5 +33,11 @@ public class EmployeeController {
 		return ResponseEntity.ok(employeeServiceImpl.getAllData());
 	}
 
+	@GetMapping("welcome")
+	public ResponseEntity<String> sayHello()
+	{
+		return ResponseEntity.ok("Welcome to cognizant pune");
+	}
+
 
 }
