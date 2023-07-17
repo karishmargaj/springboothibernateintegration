@@ -1,4 +1,8 @@
 package com.cognizant.model;
+<<<<<<< HEAD
+=======
+
+>>>>>>> feature1
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -19,6 +23,7 @@ public class Citizen {
 	private int id;
 	
 	private String nameVaccine;
+
 
 	
 	
