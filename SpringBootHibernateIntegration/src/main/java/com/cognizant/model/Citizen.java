@@ -20,7 +20,7 @@ public class Citizen {
 	
 	private String name;
 	
-	private int vaccinationCenterId;
+	private int vaccinationCenter;
 	
 	
 	
