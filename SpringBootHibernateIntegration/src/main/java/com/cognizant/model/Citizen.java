@@ -19,7 +19,6 @@ public class Citizen {
 	@GeneratedValue
 	private int id;
 	
-	private String name;
 	
 
 	
