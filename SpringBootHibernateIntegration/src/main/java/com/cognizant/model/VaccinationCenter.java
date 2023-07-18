@@ -18,6 +18,5 @@ public class VaccinationCenter {
 	@GeneratedValue
 	private int id;
 
-
 	
 }
