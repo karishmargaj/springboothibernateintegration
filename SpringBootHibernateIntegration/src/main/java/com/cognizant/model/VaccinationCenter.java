@@ -20,7 +20,6 @@ public class VaccinationCenter {
 	
 	private String vaccinationCenterName;
 	
-	private String vaccinationCenterAddress;
 	
 	
 }
