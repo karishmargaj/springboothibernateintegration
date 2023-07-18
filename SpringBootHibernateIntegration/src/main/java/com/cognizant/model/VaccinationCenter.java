@@ -18,9 +18,5 @@ public class VaccinationCenter {
 	@GeneratedValue
 	private int id;
 	
-	private String vaccinationCenterName;
-	
-	private String vaccinationCenterAddress;
-	
 	
 }
