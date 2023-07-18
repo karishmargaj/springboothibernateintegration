@@ -1,6 +1,5 @@
 package com.cognizant.model;
 
-
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
@@ -18,8 +17,9 @@ public class Citizen {
 	@Id
 	@GeneratedValue
 	private int id;
-	
-	
+
+	private String nameVaccine;
+
 
 	
 	
