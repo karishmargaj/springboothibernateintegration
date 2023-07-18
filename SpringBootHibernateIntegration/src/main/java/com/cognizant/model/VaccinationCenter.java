@@ -17,6 +17,7 @@ public class VaccinationCenter {
 	@Id
 	@GeneratedValue
 	private int id;
+	private String vaccineName;
 	
 	
 }
